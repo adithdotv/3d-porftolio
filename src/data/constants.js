@@ -9,9 +9,7 @@ export const Bio = {
     description:
       "An Aspiring Full Stack Developer who has much more interest in the web3 space. A person who believes Web3 will be the future!!!",
     github: "https://github.com/adithdotv",
-    resume:
-      "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
-    linkedin: "https://www.linkedin.com/in/adith-v-1412001b4/",
+    resume:"/Adith-resume.pdf",
     twitter: "https://twitter.com/Adith1817",
   };
   
